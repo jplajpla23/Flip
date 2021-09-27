@@ -2,6 +2,9 @@
 
 # Flip Countdown
 
+Css Updated for compatibility with 7Segment Font
+
+
 Flip is an advanced and beautiful flip counter plugin. Easy to use and highly flexible, you can set up a custom counter on your website in minutes. Display visitor counts, countdown to a special date or celebrate progress. Whatever you’re planning, the options are endless.
 
 [Learn more about Flip on the product site](https://pqina.nl/flip/)
