@@ -1,10 +1,5 @@
 # Changelog
 
-**1.8.0** | 02-11-2020
-
-- Add credits property.
-
-
 **1.7.2** | 25-06-2019
 
 - Fix issue with JavaScript based templates not rendering correctly.
