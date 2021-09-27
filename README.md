@@ -1,4 +1,4 @@
-![](./flip.gif)
+![](./flip2.gif)
 
 # Flip Countdown
 
